@@ -131,6 +131,6 @@ npx hardhat lz:oft:send --amount 1 --src-eid 30168 --dst-eid 30102 \
 - oft-program-id: OFT 프로그램 ID (=programId, Solana only)
 
 ## Docs
-Reference: https://github.com/LayerZero-Labs/devtools/blob/main/examples/oft-solana
+Reference: https://github.com/LayerZero-Labs/devtools/blob/main/examples/oft-solana  
 Chain ID List: https://docs.layerzero.network/v2/deployments/deployed-contracts
 
